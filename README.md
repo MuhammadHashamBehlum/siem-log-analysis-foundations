@@ -1,7 +1,9 @@
 # SIEM & Log Analysis Foundations – Detecting Security Events
 
 **Prepared By:** Mohammad Hesham Wazir Ali Behlum
+
 **University:** Rochester Institute of Technology (RIT) Dubai
+
 **Program:** Bachelor of Science in Cybersecurity
 
 ## Overview
